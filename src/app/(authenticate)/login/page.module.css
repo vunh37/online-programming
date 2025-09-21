@@ -1,0 +1,22 @@
+.root {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  padding: 50px 16px 16px;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+}
+
+.submitBtn {
+  width: 100px;
+  height: 100px;
+  background-color: #bc252a !important;
+  border-radius: 30px !important;
+  transition: 0.3s linear;
+}
+
+.submitBtn .icon {
+  color: white;
+}
