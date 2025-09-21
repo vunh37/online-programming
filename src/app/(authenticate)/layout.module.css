@@ -1,0 +1,8 @@
+.authenticationRoot {
+  width: 100dvw;
+  height: 100dvh;
+  background-color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
